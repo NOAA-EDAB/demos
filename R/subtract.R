@@ -1,7 +1,7 @@
 
 subtract <- function(x,y){
   
-  z <- x - y
+  zz <- x - y
   
-  return(z)
+  return(zz)
 }
