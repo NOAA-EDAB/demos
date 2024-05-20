@@ -8,6 +8,8 @@ Here is a link to [seaside chat](https://github.com/NOAA-EDAB/seaside/wiki/Resou
 
 ## Other links
 
+* [Hadley wickhams book](https://r-pkgs.org/)
+
 * [EDAB presentations](https://noaa-edab.github.io/presentations/)
 
 * [Creating R packages](https://noaa-edab.github.io/presentations/20191009_createRPackages_Beet.html#1)
