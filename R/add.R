@@ -1,7 +1,20 @@
+#' Adds two numbers
+#'
+#' descriptions
+#'
+#' @param x numeric. First number
+#' @param y numeric. Second number
+#'
+#' @return sum of values
+#' 
+#' @export
 
 add <- function(x,y){
   
-  z <- sqrt(x^2 + y^2)
+  #z <- x + y
+  
+  z <- base::sum(x,y)
+  
   
   return(z)
 }
